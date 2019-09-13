@@ -8,7 +8,7 @@ gem 'activeadmin', github: 'activeadmin'
 gem 'devise'
 gem 'active_admin_editor', github: 'ejholmes/active_admin_editor'
 gem 'font-awesome-rails'
-gem 'bootstrap-sass', '~> 3.2.0'
+gem 'bootstrap-sass', '>= 3.4.1'
 gem 'autoprefixer-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
